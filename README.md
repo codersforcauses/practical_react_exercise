@@ -1,4 +1,4 @@
-# practical_react_exercise
+# Practical React Exercise
 
 ## 1st thing to do after cloning to your computer
 
